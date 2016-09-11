@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Ottawa Tour Guide</string>
+
+    <!-- Category name for Food [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for Landmarks [CHAR LIMIT=20] -->
+    <string name="category_landmarks">Landmarks</string>
+
+    <!-- Category name for Museums [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for Outdoor [CHAR LIMIT=20] -->
+    <string name="category_outdoor">Outdoor</string>
+
+    <!-- Category name for Parks [CHAR LIMIT=20] -->
+    <string name="category_parks">Parks</string>
+
+    <!-- Landmarks -->
+
+    <string name="parliament_hill_name">Parliament Hill</string>
+    <string name="parliament_hill_details">Parliament Hill, colloquially known as The Hill, is an area of Crown land on the southern banks of the Ottawa River.</string>
+
+    <string name="ottawa_locks_name">Ottawa Locks</string>
+    <string name="ottawa_locks_details">This is the largest single set of locks on the entire Rideau system, providing a lift of 24 m (79 ft.).</string>
+
+    <string name="rideau_hall_name">Rideau Hall</string>
+    <string name="rideau_hall_details">Rideau Hall is the official residence and workplace of every governor general since 1867.</string>
+
+    <string name="confederation_square_name">Confederation Square</string>
+    <string name="confederation_square_details">Confederation Square is considered the second most important ceremonial centre in Canada\'s capital city, after Parliament Hill.</string>
+
+    <string name="westboro_name">Westboro</string>
+    <string name="westboro_details">Westboro Village is one of the most unique and diverse neighbourhoods in Ottawa.</string>
+
+    <string name="dows_lake_name">Dow\'s Lake</string>
+    <string name="dows_lake_details">Dow\'s Lake in Ottawa, Canada is a small man-made lake on the Rideau Canal.</string>
+
+    <!-- Museums -->
+
+    <string name="canadian_museum_of_nature_name">The Canadian Museum of Nature</string>
+    <string name="canadian_museum_of_nature_details">The Canadian Museum of Nature is a natural history museum.</string>
+
+    <string name="canadian_museum_of_history_name">The Canadian Museum of History</string>
+    <string name="canadian_museum_of_history_details">The Canadian Museum of History is Canada\'s national museum of human history.</string>
+
+    <string name="canadian_war_museum_name">Canadian War Museum</string>
+    <string name="canadian_war_museum_details">The Canadian War Museum is Canada\'s national museum of military history.</string>
+
+    <string name="national_gallery_of_canada_name">National Gallery of Canada</string>
+    <string name="national_gallery_of_canada_details">The National Gallery of Canada is one of Canada\'s premier art galleries.</string>
+
+    <string name="canada_aviation_and_space_museum_name">The Canada Aviation and Space Museum</string>
+    <string name="canada_aviation_and_space_museum_details">The Canada Aviation and Space Museum is Canada\'s national aviation history museum.</string>
+
+    <!-- Parks -->
+
+    <string name="rideau_canal_name">Rideau Canal</string>
+    <string name="rideau_canal_details">Rideau canal was opened in 1832 as a precaution in case of war with the United States. It remains in use today primarily for pleasure boating.</string>
+
+    <string name="macdonald_parkway_name">Sir John A. MacDonald Parkway</string>
+    <string name="macdonald_parkway_details">The Sir John A. Macdonald Parkway, formerly the Ottawa River Parkway, is a four-lane scenic parkway along the Ottawa River.</string>
+
+    <string name="hogs_back_fall_name">Hog\'s Back Falls</string>
+    <string name="hogs_back_fall_details">The Hog\'s Back Falls are a series of artificial waterfalls on the Rideau River.</string>
+
+    <string name="majors_hill_park_name">Major\'s Hill Park</string>
+    <string name="majors_hill_park_details">Major\'s Hill Park is a park in downtown Ottawa, Ontario. The park stands above the Rideau Canal at the point where it enters the Ottawa River.</string>
+
+    <string name="lansdowne_park_name">Lansdowne Park</string>
+    <string name="lansdowne_park_details">Lansdowne Park is a 40-acre historic sports, exhibition and entertainment facility.</string>
+
+    <string name="rideau_falls_name">Rideau Falls</string>
+    <string name="rideau_falls_details">he Rideau Falls are two waterfalls where the Rideau River empties into the Ottawa River.</string>
+
+    <!-- Outdoor -->
+
+    <string name="capital_cruises_name">Capital Cruises</string>
+    <string name="capital_cruises_details">Daily sightseeing tours with full live commentary, and evening cocktail cruises complete with live music await you.</string>
+
+    <string name="escape_bicycle_tours_name">Escape Bicycle Tours</string>
+    <string name="escape_bicycle_tours_details">Experience the sights, sounds and scents of the Ottawa Region on a bicycle!</string>
+
+    <string name="algonquin_park_canoe_trip_name">Algonquin Park Canoe Trip</string>
+    <string name="algonquin_park_canoe_trip_details">Guided wilderness canoe trip in Algonquin Park. Paddle your own canoe, swim in pristine lakes, cook over a campfire, and sleep in tents.</string>
+
+    <string name="ottawa_city_rafting_name">Ottawa City Rafting</string>
+    <string name="ottawa_city_rafting_details">Ottawa City Rafting specializes in whitewater rafting, canoeing, fishing and sea kayaking tours.</string>
+
+    <string name="ottawa_biplane_adventures_name">Ottawa Biplane Adventures</string>
+    <string name="ottawa_biplane_adventures_details">Ottawa Biplane Adventures offers a bird\'s-eye view of Ottawa\'s most beautiful locations, all in the seat of an open cockpit Biplane.</string>
+</resources>
